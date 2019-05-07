@@ -3,4 +3,4 @@
 create a new branch of dev.
 This is quick and easy.
 No fast forward.
-Do other things.
+Do some things.
